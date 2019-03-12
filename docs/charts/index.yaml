@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  pbw-liberty-mariadb:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: 2019-03-12T19:57:57.244867875Z
+    description: A Helm chart for Kubernetes for the WAS sample Plants By Websphere
+      migrated to Liberty and using a MariaDB database.
+    digest: 20f81da0f21a9af4a6b195a326c99dbf6f514a820aac0aace480c04f63b8d57f
+    maintainers:
+    - email: carew@us.ibm.com
+      name: David Carew
+    name: pbw-liberty-mariadb
+    urls:
+    - https://vsarip.github.io/app-modernization-plants-by-websphere-jee6/charts/pbw-liberty-mariadb-1.0.0.tgz
+    version: 1.0.0
+generated: 2019-03-12T19:57:57.236394589Z
